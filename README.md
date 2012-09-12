@@ -29,6 +29,9 @@ We want to get cabbage working under as many different circumstances as possible
 ### Automatic installer
 
     $ /usr/bin/env bash -c "$(curl -fsSL https://raw.github.com/senny/cabbage/master/scripts/install.sh)"
+    
+#### Windows
+Download install script [install.bat](https://raw.github.com/senny/cabbage/master/scripts/install.bat), open, and follow the prompts.
 
 ### Developer installation
 
